@@ -1,5 +1,5 @@
 <p align="center">
-<img src="./docs/images/logo.png" width="120" alt="pado logo">
+<img src="docs/images/logo.png" width="120" alt="pado logo">
 </p>
 
 # Pado: Differentiable Light-wave Simulation
